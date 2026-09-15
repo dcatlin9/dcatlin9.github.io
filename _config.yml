@@ -1,0 +1,14 @@
+title: Dan Catlin
+description: >-
+  Scientist to Commercial Leader — dispatches from an EMBA in progress.
+theme: minima
+permalink: /:year/:month/:day/:title/
+url: "https://dcatlin9.github.io"
+author:
+  name: Dan Catlin
+  email: dcatlin9@gmail.com
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
