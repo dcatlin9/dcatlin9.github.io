@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Abbott, Vietnam, and the Distance That Doesn't Show Up on a Map"
+date: 2026-09-28 08:00:00 -0700
+categories: [emba, career]
+---
+
+On Saturday, four of us sat in a mostly empty study room on the fourth floor of the business school, arguing about distance. Not the kind you measure with a ruler — the kind the CAGE framework asks you to measure instead: cultural distance, administrative distance, geographic distance, economic distance, four axes that are supposed to tell you how far a company really is from a market it wants to enter, as opposed to how far it looks on a map. We are building the storyline for our Theme VI group deck, fifteen slides due October 5th, on Abbott Laboratories and its pharmaceutical business in Vietnam, and the argument that ate our afternoon was this: once you have priced the flight and rented the office, is geographic distance actually solved? One teammate said yes, obviously, you can fly there. I said the number of hours in the air was the least interesting part of the distance we were supposed to be measuring, and that the real distance — the part that determines whether Abbott's regulatory approach, built for a very different administrative environment, actually works once it lands — was the part nobody in the room had a clean answer for.
+
+I spent a decade in a discipline where distance had a rigorous definition. Two angstroms between a ligand and a binding pocket residue is not a matter of interpretation; you measure it, you cite it, you move on. What I am relearning, three years and one biochemistry PhD away from a bench, is that most of the distances that actually determine whether a decision works are not measurable in that sense at all. They are argued into existence by people who have each quietly decided which axis matters most, and then defended as though the argument were the data.
+
+The instinct that carried over anyway is skepticism toward the axis nobody is checking. Porter's Diamond wants you to ask about factor conditions and demand conditions and the strength of the related industries clustered around your target market — and it is tempting, in a group project with a deadline, to fill in the box that makes the story cohere rather than the box that is actually true. I found myself doing to our own deck what I used to do to a colleague's gel: not "does this look right" but "what would make this wrong, and did we check for that." It turns out the habit of interrogating your own favorite hypothesis is not specific to enzymes.
+
+In a few weeks I will be on a plane to Vietnam with the rest of my cohort, on the program's ExPORT trip, to find out in person how much of what four of us decided in a study room on a Saturday afternoon holds up against a market none of us has actually stood in. I suspect the answer is: some of it, defended more confidently than it deserved. That seems to be the general finding, one case at a time.
