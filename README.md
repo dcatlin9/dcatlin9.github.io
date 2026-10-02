@@ -43,7 +43,9 @@ If nothing's live after a few minutes, check **Settings → Pages** on the repo 
 
 ## Publishing post 2 (and beyond)
 
-Drop a new file in `_posts/` named `YYYY-MM-DD-your-slug.md` with the same front matter block (`layout: post`, `title`, `date`, `categories`), commit, and push — no other setup required. The filename's date and slug become the post's URL, matching the `permalink` pattern already set in `_config.yml`.
+Drop a new file in `_posts/` named `YYYY-MM-DD-your-slug.md` with the same front matter block (`layout: post`, `title`, `date`, `categories`, **and `summary`**), commit, and push — no other setup required. The filename's date and slug become the post's URL, matching the `permalink` pattern already set in `_config.yml`.
+
+`summary` is required, not optional: it's a one- or two-sentence teaser, written separately from the post body, that the personal-website repo's `sync-latest-post` GitHub Action pulls into the "Latest post" card automatically. A post pushed here without a `summary` field will make that automation fail its next run (loudly, as a failed Action, not silently) rather than publish a blank or stale teaser.
 
 ## If you actually publish on a different date than 2026-09-15
 

@@ -3,6 +3,7 @@ layout: post
 title: "One Year Into the EMBA: What a Biochemist Learns Modeling Airbus"
 date: 2026-09-15 08:00:00 -0700
 categories: [emba, career]
+summary: "A field note on year one of the EMBA — underwriting Airbus, a live KCRW engagement, and what a biochemistry PhD carries into a boardroom."
 ---
 
 When I told people I was going back to school for an MBA, the assumption was always the same: pivot story, scientist getting tired of the bench, new LinkedIn header incoming. That's not quite what happened. What actually happened is closer to something I've written elsewhere: the lab is fun, but it isn't the whole story. I'd watched a deal I cared about get derailed by forces that had nothing to do with the underlying chemistry — regulatory posture, internal politics, the ordinary mess of people deciding what a company does next. I didn't want out of science. I wanted in on the part of the decision the science alone doesn't make. One year in, I can still remember exactly how strange that ambition felt on day one, sitting in a room full of people who'd spent careers in finance and operations, having spent mine solving protein structures almost no one outside a narrow field had ever heard of.

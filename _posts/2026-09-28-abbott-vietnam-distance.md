@@ -3,6 +3,7 @@ layout: post
 title: "Abbott, Vietnam, and the Distance That Doesn't Show Up on a Map"
 date: 2026-09-28 08:00:00 -0700
 categories: [emba, career]
+summary: "CAGE distance and Porter's Diamond meet a group deck on Abbott's Vietnam pharma business — and the habit of interrogating your own favorite hypothesis."
 ---
 
 On Saturday, four of us sat in a mostly empty study room on the fourth floor of the business school, arguing about distance. Not the kind you measure with a ruler — the kind the CAGE framework asks you to measure instead: cultural distance, administrative distance, geographic distance, economic distance, four axes that are supposed to tell you how far a company really is from a market it wants to enter, as opposed to how far it looks on a map. We are building the storyline for our Theme VI group deck, fifteen slides due October 5th, on Abbott Laboratories and its pharmaceutical business in Vietnam, and the argument that ate our afternoon was this: once you have priced the flight and rented the office, is geographic distance actually solved? One teammate said yes, obviously, you can fly there. I said the number of hours in the air was the least interesting part of the distance we were supposed to be measuring, and that the real distance — the part that determines whether Abbott's regulatory approach, built for a very different administrative environment, actually works once it lands — was the part nobody in the room had a clean answer for.
