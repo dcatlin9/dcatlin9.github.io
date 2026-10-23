@@ -6,23 +6,23 @@ permalink: /consulting/
 
 <div class="hero-pill">
   <span class="dot"></span>
-  <span>Technical Due Diligence &bull; Biotech Commercialization &bull; GTM Strategy</span>
+  <span>Commercial Strategy &bull; Technical Due Diligence &bull; GTM</span>
 </div>
 
-# Biotech Commercialization and Technical Due Diligence
+# Commercial and Technical Advisory for Life Sciences
 
-Bridging laboratory experience with business school frameworks to help investors, searchers, and biotech teams evaluate technical claims, assess operational friction, and plan commercial rollouts.
+Commercial and technical advisory for life science tools, diagnostics, and biotech businesses. As a commercial leader with an insider scientific background (ten years as a Senior Scientist and Biochemistry PhD), I help investors, searchers, and executive teams evaluate technical claims, assess operational adoption barriers, and build viable go-to-market plans.
 
 ---
 
 ## Why This Perspective Matters
 
-In life sciences, many of the most expensive mistakes happen when decisions are made without understanding both the science and the business context simultaneously:
+In life sciences, many of the most expensive commercial mistakes happen when decisions are made without understanding both the science and the commercial context simultaneously:
 
-* **Investors and Acquirers** frequently review impressive slide decks and high-level revenue projections, but lack the in-house scientific depth to interrogate whether an assay is truly reproducible, whether a protocol is too cumbersome for technicians, or whether key reagents are single-sourced from a vulnerable supplier.
+* **Investors and Acquirers** frequently review revenue projections and pitch decks, but lack the technical depth to interrogate whether an assay is truly reproducible, whether a protocol is too cumbersome for technicians, or whether key reagents are single-sourced from a vulnerable supplier.
 * **Biotech Founders and Tool Developers** often have world-class technical mechanisms, but struggle to align product features with the purchasing realities of academic core labs, clinical diagnostics facilities, or pharmaceutical research teams.
 
-Having spent a decade solving protein structures and developing assays as a Senior Scientist, combined with Executive MBA training in valuation, corporate finance, and market entry, I provide a grounded, independent perspective that bridges both worlds.
+Having spent a decade solving protein structures and developing assays, combined with Executive MBA training in valuation, corporate finance, and market entry, I provide a grounded commercial perspective informed by authentic laboratory depth.
 
 ---
 
@@ -64,7 +64,7 @@ Helping technical teams translate laboratory breakthroughs into viable commercia
   <p>
     &ldquo;The habit that carries over from the laboratory is skepticism toward assumptions nobody in the room is questioning. Asking 'what is actually being measured here' applies to an assay validation dataset just as directly as it applies to a corporate valuation model.&rdquo;
   </p>
-  <span class="author">Dan Catlin (Biochemist PhD and EMBA Candidate)</span>
+  <span class="author">Dan Catlin (Commercial Leader and EMBA Candidate)</span>
 </div>
 
 ---

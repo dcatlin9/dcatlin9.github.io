@@ -6,27 +6,27 @@ permalink: /eta/
 
 <div class="hero-pill">
   <span class="dot"></span>
-  <span>Exploring the Operator Path &bull; Life Science Tools &amp; Biotech</span>
+  <span>Commercial Leadership &bull; Operator Exploration &bull; Life Science Tools</span>
 </div>
 
 # Entrepreneurship Through Acquisition (ETA): Exploring the Operator Path
 
 <div class="thesis-callout">
   <p>
-    &ldquo;The lab is fun, but it is not the whole story. I did not want out of science; I wanted in on the part of the decision the science alone does not make. ETA represents a compelling intersection of that ambition: applying domain literacy and rigorous inquiry directly to general management and operational stewardship.&rdquo;
+    &ldquo;The lab is fun, but it is not the whole story. I did not want out of science; I wanted in on the business decisions that shape whether innovation reaches the market. ETA represents a compelling intersection: applying commercial leadership and operational stewardship to a technical business with an insider's understanding of the lab.&rdquo;
   </p>
-  <span class="author">Dan Catlin (Biochemist PhD and EMBA Candidate)</span>
+  <span class="author">Dan Catlin (Commercial Leader and EMBA Candidate)</span>
 </div>
 
 ---
 
-## Why I Am Exploring ETA
+## Why a Commercial Leader with Technical Depth is Exploring ETA
 
-As a Senior Scientist with a biochemistry PhD in the second year of an Executive MBA, the conventional career paths usually branch in two directions: remain in corporate R&amp;D leadership, or move entirely into consulting or finance.
+As a commercial leader in life sciences with an Executive MBA and a PhD in biochemistry, the conventional career paths usually branch in two directions: corporate commercial management in a large multinational, or strategy consulting.
 
-Through my EMBA coursework, studying leveraged buyout models, corporate divestitures, and capital structures, a third path emerged that resonated far more deeply: **Entrepreneurship Through Acquisition (ETA)**.
+Through my EMBA coursework studying leveraged buyout models, corporate divestitures, and capital structures, a third path emerged that resonated far more deeply: **Entrepreneurship Through Acquisition (ETA)**.
 
-Rather than founding an early-stage startup with high binary failure risk, ETA focuses on acquiring and operating an established, profitable small-to-midsize company. It is an operator-led model that requires general management, financial discipline, customer empathy, and a long-term commitment to a single business.
+Rather than founding an early-stage startup with binary scientific risk, ETA focuses on acquiring and operating an established, profitable small-to-midsize company. It is an operator-led model that requires general management, financial discipline, customer empathy, and a long-term commitment to a single business.
 
 I am actively researching and evaluating this space, developing an acquisition thesis centered on **Life Science Tools, Reagents, and Specialized Laboratory Services**.
 
@@ -34,13 +34,13 @@ I am actively researching and evaluating this space, developing an acquisition t
 
 ## Why Life Science Tools? (The Emerging Thesis)
 
-Niche life science tools and reagent businesses possess economic and operational characteristics that align uniquely with an operator holding both scientific depth and commercial business training:
+Niche life science tools and reagent businesses possess economic and operational characteristics that align uniquely with an operator holding both commercial training and genuine scientific depth:
 
 * **Sticky, Embedded Workflows:** Reagents, specialized assays, and analytical instruments often become locked into customer standard operating procedures (SOPs), academic protocols, or validated clinical workflows. Switching costs are high because data reproducibility matters more than marginal price differences.
 * **Mission-Critical Demand:** Unlike speculative therapeutics discovery, life science tools and consumables serve the daily operational infrastructure of biopharma R&amp;D, academic core facilities, and diagnostic testing laboratories.
 * **The Domain Chasm:** Many of these companies were built by scientists or engineers who are now contemplating retirement or succession. Traditional financial buyers often struggle to evaluate these assets because they cannot read an assay validation report, speak the language of the bench staff, or evaluate lab friction.
 
-An owner-operator who understands the science, respects the technical craft, and brings modern general management frameworks offers a natural succession partner for founders who care about what happens to their team, their customers, and their reputation.
+An owner-operator who brings modern commercial strategy while genuinely understanding the laboratory craft offers a natural succession partner for founders who care about what happens to their team, their customers, and their reputation.
 
 ---
 
@@ -48,15 +48,15 @@ An owner-operator who understands the science, respects the technical craft, and
 
 Operating a technical business requires a balance of scientific verification and financial discipline. My background spans both sides of that equation:
 
-### 1. Scientific Depth and Laboratory Empathy
-* **Ten Years at the Bench:** Solving protein structures, designing enzyme kinetics assays, and scaling laboratory workflows.
-* **Technical Due Diligence Instincts:** Knowing how to interrogate assay reproducibility, lot-to-lot consistency, and customer workflow bottlenecks, rather than taking high-level claims at face value.
-* **Respect for Technical Staff:** Understanding what bench technicians, formulation chemists, and quality assurance teams need to succeed.
-
-### 2. Commercial and Financial Acumen (EMBA)
+### 1. Commercial and Financial Acumen (EMBA)
 * **Quantitative Financial Modeling:** Hands-on training in corporate valuation, discounted cash flow (DCF) models, LBO underwriting, capital structure evaluation, and WACC sensitivity analysis.
 * **Market Entry and Strategic Pricing:** Structuring razor/razorblade pricing, analyzing gross margin health, and evaluating distribution channel economics.
 * **The Skeptical Generalist:** Applying the same discipline used to question an enzyme assay hypothesis to interrogate financial statement assumptions: *"What is actually being measured here?"*
+
+### 2. Scientific Depth and Laboratory Empathy
+* **Ten Years at the Bench:** Solving protein structures, designing enzyme kinetics assays, and scaling laboratory workflows as a Senior Scientist with a biochemistry PhD.
+* **Technical Due Diligence Instincts:** Knowing how to interrogate assay reproducibility, lot-to-lot consistency, and customer workflow bottlenecks, rather than taking high-level claims at face value.
+* **Respect for Technical Staff:** Understanding what bench technicians, formulation chemists, and quality assurance teams need to succeed.
 
 ---
 
