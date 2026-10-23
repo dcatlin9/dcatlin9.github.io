@@ -1,0 +1,233 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/* ==========================================================================
+   Dan Catlin - Executive Custom Styling for Minima Theme
+   ========================================================================== */
+
+:root {
+  --exec-navy: #0f172a;
+  --exec-blue: #2563eb;
+  --exec-blue-subtle: #eff6ff;
+  --exec-teal: #0d9488;
+  --exec-teal-subtle: #f0fdfa;
+  --exec-border: #e2e8f0;
+  --exec-card-bg: #ffffff;
+  --exec-text-muted: #64748b;
+  --exec-bg-subtle: #f8fafc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --exec-navy: #f8fafc;
+    --exec-blue: #60a5fa;
+    --exec-blue-subtle: rgba(59, 130, 246, 0.12);
+    --exec-teal: #2dd4bf;
+    --exec-teal-subtle: rgba(45, 212, 191, 0.12);
+    --exec-border: #26334d;
+    --exec-card-bg: #131d2e;
+    --exec-text-muted: #94a3b8;
+    --exec-bg-subtle: #0f172a;
+  }
+}
+
+body {
+  font-feature-settings: "kern", "liga", "clig", "calt";
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Hero Pill Badge */
+.hero-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.85rem;
+  border-radius: 9999px;
+  background-color: var(--exec-teal-subtle);
+  border: 1px solid var(--exec-teal);
+  color: var(--exec-teal);
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  margin-bottom: 1.25rem;
+}
+
+.hero-pill .dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: var(--exec-teal);
+}
+
+/* Strategic Pillar Cards Grid */
+.pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.pillar-card {
+  background-color: var(--exec-card-bg);
+  border: 1px solid var(--exec-border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  transition: transform 150ms ease, border-color 150ms ease;
+}
+
+.pillar-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--exec-blue);
+}
+
+.pillar-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: var(--exec-navy);
+}
+
+.pillar-card p {
+  font-size: 0.925rem;
+  color: inherit;
+  margin-bottom: 1rem;
+  flex-grow: 1;
+}
+
+.pillar-link {
+  font-weight: 600;
+  font-size: 0.875rem;
+  color: var(--exec-blue) !important;
+  text-decoration: none;
+}
+
+.pillar-link:hover {
+  text-decoration: underline;
+}
+
+/* Highlight Quote / Thesis Callout Box */
+.thesis-callout {
+  background-color: var(--exec-bg-subtle);
+  border-left: 4px solid var(--exec-teal);
+  border-top: 1px solid var(--exec-border);
+  border-right: 1px solid var(--exec-border);
+  border-bottom: 1px solid var(--exec-border);
+  border-radius: 6px;
+  padding: 1.5rem 1.75rem;
+  margin: 1.75rem 0;
+}
+
+.thesis-callout p {
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.thesis-callout .author {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--exec-text-muted);
+  font-style: normal;
+}
+
+/* Criteria Grid for ETA */
+.criteria-box-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.criteria-box {
+  background-color: var(--exec-bg-subtle);
+  border: 1px solid var(--exec-border);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+}
+
+.criteria-box .tag {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--exec-teal);
+  margin-bottom: 0.25rem;
+}
+
+.criteria-box .val {
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: var(--exec-navy);
+  margin-bottom: 0.25rem;
+}
+
+.criteria-box .desc {
+  font-size: 0.825rem;
+  color: var(--exec-text-muted);
+}
+
+/* Engagement & Comparison Tables */
+table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--exec-border);
+  font-size: 0.925rem;
+}
+
+table th {
+  background-color: var(--exec-bg-subtle);
+  font-weight: 700;
+  text-align: left;
+}
+
+/* Contact CTA Banner */
+.cta-banner {
+  background-color: var(--exec-blue-subtle);
+  border: 1px solid var(--exec-blue);
+  border-radius: 8px;
+  padding: 1.5rem 1.75rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.cta-banner h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.cta-btn {
+  display: inline-block;
+  padding: 0.6rem 1.25rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none !important;
+}
+
+.cta-btn-primary {
+  background-color: #0f172a;
+  color: #ffffff !important;
+}
+
+.cta-btn-primary:hover {
+  background-color: #1e3a8a;
+}
