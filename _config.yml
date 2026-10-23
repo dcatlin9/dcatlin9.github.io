@@ -1,16 +1,12 @@
 title: Dan Catlin
 description: >-
-  Commercial leader in life sciences with technical insider depth (Biochemistry PhD and Senior Scientist background, EMBA candidate). Focused on Commercial Leadership, Biotech Consulting and Due Diligence, and Entrepreneurship through Acquisition (ETA).
+  Scientist to Commercial Leader: dispatches from an EMBA in progress.
 theme: minima
 permalink: /:year/:month/:day/:title/
 url: "https://dcatlin9.github.io"
 author:
   name: Dan Catlin
   email: dcatlin9@gmail.com
-
-header_pages:
-  - consulting.md
-  - eta.md
 
 # Build settings
 markdown: kramdown
