@@ -11,7 +11,7 @@ layout: home
 
 Bridging a decade of discovery research in biotechnology with an **Executive MBA** in corporate finance, market entry strategy, and commercial leadership. 
 
-I partner with life science founders, institutional investors, and boards to **de-risk technical assets**, **accelerate product commercialization**, and **acquire enduring life science tools businesses**.
+I partner with life science founders, institutional investors, and boards to **de-risk technical assets**, **accelerate product commercialization**, and **evaluate operator-led acquisition pathways (ETA)**.
 
 ---
 
@@ -41,14 +41,14 @@ I partner with life science founders, institutional investors, and boards to **d
   </div>
 
   <div class="pillar-card">
-    <h3 class="pillar-title">ETA Search Thesis</h3>
-    <p>Actively searching to acquire and operate a profitable business in Life Science Tools, specialty consumables, or CRO services.</p>
+    <h3 class="pillar-title">Exploring ETA (Search)</h3>
+    <p>Investigating the operator-led acquisition model in Life Science Tools &amp; specialty biotech—combining bench empathy with general management.</p>
     <ul style="font-size: 0.85rem; padding-left: 1.2rem; margin-bottom: 1rem;">
-      <li>Target: $3M&ndash;$25M Revenue | $750K&ndash;$4M EBITDA</li>
-      <li>Full-time operator &amp; CEO succession</li>
-      <li>Preserving technical culture &amp; legacy</li>
+      <li>Developing criteria in tools &amp; reagents</li>
+      <li>Connecting lab literacy with P&amp;L ownership</li>
+      <li>Exchanging notes with searchers &amp; founders</li>
     </ul>
-    <a href="{{ '/eta/' | relative_url }}" class="pillar-link">Read Acquisition Thesis &rarr;</a>
+    <a href="{{ '/eta/' | relative_url }}" class="pillar-link">Read ETA Perspective &rarr;</a>
   </div>
 </div>
 
